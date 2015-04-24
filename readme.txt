@@ -21,10 +21,9 @@ It uses a custom post type for each slide.
 == Screenshots ==
 
 1. Create new slider.
- `/assets/create_slider.png` 
  
 2. Customize slider
- `/assets/customize_slider.png`
+ 
 
 3. Sliders list
- `/assets/sliders_list.png`
+ 

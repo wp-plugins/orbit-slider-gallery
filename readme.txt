@@ -20,8 +20,6 @@ It uses a custom post type for each slide.
 
 == Screenshots ==
 
-
-
 1. Create new slider.
  `/assets/create_slider.png` 
  

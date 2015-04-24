@@ -1,5 +1,5 @@
 === Orbit_Gallery === 
-Contributors:''
+Contributors:'gabriele.b'
 Tags: slider, orbit, foundation, responsive slider 
 Requires at least: 3.4 
 Tested up to: 3.4 

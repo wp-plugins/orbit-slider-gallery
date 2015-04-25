@@ -7,8 +7,9 @@ Stable tag: 4.3
 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-WP Orbit Slider is based on jQuery Orbit Slider from the team Zurb. 
+Orbit_Gallery is based on jQuery Orbit Slider from the team Zurb. 
 It uses a custom post type for each slide. 
+Slider settings are customizable through plugin settings page. 
 == Installation ==
 
 1. Upload wp_orbit_gallery directory to the /wp-content/plugins/ directory

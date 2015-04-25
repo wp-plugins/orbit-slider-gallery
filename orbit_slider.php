@@ -53,7 +53,7 @@ function orbit_settings() {
 }
 
 function orbit_display_settings() {
-	include (dirname(__FILE__) . '/include/options.php');
+	include (dirname(__FILE__) . '/include/options_page.php');
 
 }
 
